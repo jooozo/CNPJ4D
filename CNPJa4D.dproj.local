@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/04/01 10:45:07.345,=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/04/01 10:45:32.376,C:\RGF Desenvolvimento\CNPJa4D\uMain.dfm=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2025/04/01 10:45:32.376,C:\RGF Desenvolvimento\CNPJa4D\uMain.pas=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/04/01 10:45:40.876,C:\RGF Desenvolvimento\CNPJa4D\CNPJa4D.dproj=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2025/04/01 10:54:06.812,=C:\RGF Desenvolvimento\CNPJa4D\Model\Entity\CNPJa.Model.Entity.CNPJa.pas</Transaction>
+    <Transaction>2025/04/01 11:02:01.835,=C:\RGF Desenvolvimento\CNPJa4D\Model\Entity\CNPJa.Model.Entity.CNPJa.pas</Transaction>
+    <Transaction>2025/04/01 11:53:20.076,C:\RGF Desenvolvimento\CNPJa4D\CNPJa.Model.Entity.CNPJa.pas=C:\RGF Desenvolvimento\CNPJa4D\Model\Entity\CNPJa.Model.Entity.CNPJa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
