@@ -59,7 +59,7 @@ Como Usar
 Configurar a Chave de API:
 
 Obtenha uma chave de API CNPJa no site oficial. https://cnpja.com/api/open
-Configure a chave no arquivo config.ini ou dentro da unit de configuração do projeto.
+Configure a chave dentro da unit de configuração do projeto.
 
 
 Executar o Programa:
