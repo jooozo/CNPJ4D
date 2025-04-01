@@ -36,7 +36,7 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
 
 
 
-git clone https://github.com/usuario/seu-repositorio.git
+git clone https://github.com/jooozo/CNPJ4D.git
 
 
 Instale o Delphi 12 Community.
